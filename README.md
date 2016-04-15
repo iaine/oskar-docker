@@ -5,7 +5,7 @@ simulator
 
 https://github.com/OxfordSKA/OSKAR
 
-##Author
+##Maintainer
 
 Iain Emsley <iain.emsley@oerc.ox.ac.uk>
 
